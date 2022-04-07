@@ -10,13 +10,13 @@
 `rust` 使用 `let` `var` 声明不可变变量， 使用 `let mut variable` 声明可变变量，`const` 声明常量；`Python` 中直接生命变量；`C` `C++` 中使用 `类型` + `variable` 来声明变量；`Go` 语言使用 `var` 声明变量；
 
 `rust` 基本数据类型包括：
-- 数值类型：有符号数值（`i8` `i16` `i32` `i64`），无符号数值（`u8` `u16` `u32` `u64`）
+- 数值类型：有符号数值（`i8` `i16` `i32` `i64` `isize`），无符号数值（`u8` `u16` `u32` `u64` `usize`）
 - 字符串：字符串字面量和切片 `&str`
 - 布尔类型：`true` `false`
 - 字符类型：单个 `char` Unicde类型存储为 `4` 个字节
 - 单元类型：`()` 唯一的值也为 `()`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjQ3MjQ3MSwtMTQ3MTUzMzgzNCwxNz
-UxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX0=
+eyJoaXN0b3J5IjpbLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMT
+c1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
 -->
