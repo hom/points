@@ -43,10 +43,10 @@
 
 `rust` 中使用 `()` 声明元组类型；`Python` 中使用 `tuple` 来声明元组类型；`Go` 中使用 `Pair/Tuple` 来实现对和元组操作；
 
-``
+`rust` 中使用 `..` 来做序列分片或者解构；`JavaScript` 中使用 `...` 来做解构；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDI0ODk3MiwxMjg3MTk1NDQwLC0xMj
+eyJoaXN0b3J5IjpbLTI1MjE3Njc5MSwxMjg3MTk1NDQwLC0xMj
 I1NTM3MzU4LC0xNjcyOTAzNjM4LDEzOTQ1NjYxOTcsLTE4NTYx
 NTIxMzgsMTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3NDIyMTQxMz
 EsLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUzMzgzNCwx
