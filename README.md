@@ -18,10 +18,10 @@
 
 `rust` 使用 `panic` 抛出错误；`Go` 使用 `panic` 抛出错误；`Python` 使用 `raise` 抛出错误；`JavaScript` 使用 `throw` 抛出错误；
 
-
+`rust` 中也包含有 `Nan`，使用 `is_nan` 来进行比较
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTA4MzYsLTE1NDIwNDg3NzcsLTE0Nz
-E1MzM4MzQsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4
-N119
+eyJoaXN0b3J5IjpbNTgxNTc5MjU2LC0xNTQyMDQ4Nzc3LC0xND
+cxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4
+ODddfQ==
 -->
