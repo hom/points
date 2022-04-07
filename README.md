@@ -18,10 +18,12 @@
 
 `rust` 使用 `panic` 抛出错误；`Go` 使用 `panic` 抛出错误；`Python` 使用 `raise` 抛出错误；`JavaScript` 使用 `throw` 抛出错误；
 
-`rust` 中也包含有 `Nan`，使用 `is_nan` 来进行比较
+`rust` 中也包含有 `Nan`，使用 `is_nan` 来进行比较；
+
+`rust` 中使用 `..` 来生成序列，[1-5) 表示为 `enter code here`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNTc5MjU2LC0xNTQyMDQ4Nzc3LC0xND
-cxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4
-ODddfQ==
+eyJoaXN0b3J5IjpbLTEzODcxMjcyOTcsLTE1NDIwNDg3NzcsLT
+E0NzE1MzM4MzQsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1
+Nzg4N119
 -->
