@@ -38,10 +38,12 @@
 使用 `rustc -W help` 查看 `rustc` 编辑器的 `Warn` `Allow` `Deny` `forbid` 规则；
 
 `rust` 使用 `unimplemented!` 和 `todo!` 表示此处代码功能暂未实现；`Python` 中使用 `pass` 来表示此处功能暂未实现；
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI5MDM2MzgsMTM5NDU2NjE5NywtMT
-g1NjE1MjEzOCwxMjIwMTUyODU3LDE2NzQ5MTEzMTAsMTc0MjIx
-NDEzMSwtNzU1NjY3MTU3LC0xNTQyMDQ4Nzc3LC0xNDcxNTMzOD
-M0LDE3NTE4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzI0NTc3Mjg2LC0xNjcyOTAzNjM4LDEzOT
+Q1NjYxOTcsLTE4NTYxNTIxMzgsMTIyMDE1Mjg1NywxNjc0OTEx
+MzEwLDE3NDIyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3Ny
+wtMTQ3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2
+OTU3ODg3XX0=
 -->
