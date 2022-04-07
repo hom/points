@@ -39,11 +39,12 @@
 
 `rust` 使用 `unimplemented!` 和 `todo!` 表示此处代码功能暂未实现；`Python` 中使用 `pass` 来表示此处功能暂未实现；
 
+`rust` 中字符串有字面量类型 `&str` 和 动态字符串类型 `String`；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NTc3Mjg2LC0xNjcyOTAzNjM4LDEzOT
-Q1NjYxOTcsLTE4NTYxNTIxMzgsMTIyMDE1Mjg1NywxNjc0OTEx
-MzEwLDE3NDIyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3Ny
-wtMTQ3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2
-OTU3ODg3XX0=
+eyJoaXN0b3J5IjpbLTEyMjU1MzczNTgsLTE2NzI5MDM2MzgsMT
+M5NDU2NjE5NywtMTg1NjE1MjEzOCwxMjIwMTUyODU3LDE2NzQ5
+MTEzMTAsMTc0MjIxNDEzMSwtNzU1NjY3MTU3LC0xNTQyMDQ4Nz
+c3LC0xNDcxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2NTczNCwy
+NzY5NTc4ODddfQ==
 -->
