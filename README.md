@@ -26,11 +26,13 @@
 
 `rust` 中使用 `"` 声明的字面量字符串是不可变的，如果需要声明动态字符串类型则需要使用 `String` 来实现；
 
-`rust` 中每一个值都有且只有一个所有者（变量）
+`rust` 值所有权：
+- 每一个值都有且只有一个所有者（变量）；
+- 当所有者（变量）离开作用域范围后，该值将被丢弃（drop）
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjI2MTQzMSwxNjc0OTExMzEwLDE3ND
-IyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUz
-MzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX
-0=
+eyJoaXN0b3J5IjpbLTE3NDgxOTk0NjAsMTY3NDkxMTMxMCwxNz
+QyMjE0MTMxLC03NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1
+MzM4MzQsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N1
+19
 -->
