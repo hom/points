@@ -22,8 +22,10 @@
 
 `rust` 中使用 `..` 来生成序列，[1, 5) 表示为 `1..5`，[1, 5] 表示为 `1..=5`；在 `Python` 中使用 `range` 函数来实现；
 
+`rust` 中函数使用需要表明参数和返回值类型；无返回值时使用 `()` 表示，使用 `!` 表示函数永不返回；
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMT
-Q3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3
-ODg3XX0=
+eyJoaXN0b3J5IjpbMTc0MjIxNDEzMSwtNzU1NjY3MTU3LC0xNT
+QyMDQ4Nzc3LC0xNDcxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2
+NTczNCwyNzY5NTc4ODddfQ==
 -->
