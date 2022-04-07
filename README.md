@@ -5,7 +5,8 @@
 
 `rust` 使用 `cfg!(debug_assertions)` 来条件编译 `debug` 模式下的输出；
 
-
+`rust` `C` `C++` `Go` 语言中均使用 `"` 来代表字符串，使用单引号 `'` 来代表
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
+eyJoaXN0b3J5IjpbLTczODY0NjMzNCwtOTI4ODY1NzM0LDI3Nj
+k1Nzg4N119
 -->
