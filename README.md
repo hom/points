@@ -24,10 +24,10 @@
 
 `rust` 中函数使用需要表明参数和返回值类型；无返回值时使用 `()` 表示，使用 `!` 表示函数永不返回；
 
-
+`rust` 中使用 `"` 声明的字面量字符串是不可变的，如果需要声明动态字符串类型则需要使用 `String` 来实现；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzMxNTY2MywxNzQyMjE0MTMxLC03NT
+eyJoaXN0b3J5IjpbMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03NT
 U2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MTg3
 OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
 -->
