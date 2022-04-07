@@ -3,7 +3,9 @@
 
 `rust` 中使用 `Vec` 来声明可变数组，是 `Vector` 的缩写；`C++` 中以 `Vector` 来生命可变数组；
 
+`rust` 使用 `cfg!(debug_assertions)` 来条件编译 `debug` 模式下的输出；
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2OTU3ODg3XX0=
+eyJoaXN0b3J5IjpbLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
 -->
