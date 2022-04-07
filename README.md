@@ -13,9 +13,10 @@
 - 数值类型：有符号数值（`i8` `i16` `i32` `i64`），无符号数值（`u8` `u16` `u32` `u64`）
 - 字符串：字符串字面量和切片 `&str`
 - 布尔类型：`true` `false`
-- 字符类型：单个 `char` 
+- 字符类型：单个 `char` Unicde类型存储为 `4` 个字节
+- 单元类型：`()` 唯一的值也为 `()`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5Mjk1NzQ1LC0xNDcxNTMzODM0LDE3NT
-E4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
+eyJoaXN0b3J5IjpbMTkyNjQ3MjQ3MSwtMTQ3MTUzMzgzNCwxNz
+UxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX0=
 -->
