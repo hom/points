@@ -30,9 +30,14 @@
 - 每一个值都有且只有一个所有者（变量）；
 - 当所有者（变量）离开作用域范围后，该值将被丢弃（drop）；
 
+`SheBang` 定义编译器属性：
+
+- #![allow(unused_variables)] 允许未使用变量
+- #![allow(unused_doc_comments)] 允许未使用的`comment`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3ND
-IyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUz
-MzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX
-0=
+eyJoaXN0b3J5IjpbLTE5MzM2MDAxMjYsMTIyMDE1Mjg1NywxNj
+c0OTExMzEwLDE3NDIyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0
+ODc3NywtMTQ3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3Mz
+QsMjc2OTU3ODg3XX0=
 -->
