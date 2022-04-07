@@ -7,10 +7,10 @@
 
 `rust` `C` `C++` `Go` 语言中均使用 `"` 来代表字符串，使用单引号 `'` 来代表单个字符 `char`；在 `JavaScript` 中使用单引号 `'` 来代表字符串和单个字符 ；
 
-`rust` 使用 `let`  生命变量，`const` 声明常量；`Python` 中直接生命变量；`C` `C++` 中使用 类型
+`rust` 使用 `let` `var` 声明变量，`const` 声明常量；`Python` 中直接生命变量；`C` `C++` 中使用 `类型` + `variable` 来声明变量；`Go` 语言使用 `var` 声明变量；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjE4MTY4LDE3NTE4NzkyMDIsLTkyOD
-g2NTczNCwyNzY5NTc4ODddfQ==
+eyJoaXN0b3J5IjpbNTY1Nzc1MTAsMTc1MTg3OTIwMiwtOTI4OD
+Y1NzM0LDI3Njk1Nzg4N119
 -->
