@@ -16,10 +16,10 @@
 - 字符类型：单个 `char` Unicde类型存储为 `4` 个字节
 - 单元类型：`()` 唯一的值也为 `()`
 
-`rust` 使用 `panic` 抛出错误；`Go` 使用 `panic` 抛出错误；`Python` 使用 `raise` 抛出错误；`Javascript`
+`rust` 使用 `panic` 抛出错误；`Go` 使用 `panic` 抛出错误；`Python` 使用 `raise` 抛出错误；`JavaScript` 使用 `throw` 抛出错误；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTE3MjcyMSwtMTU0MjA0ODc3NywtMT
-Q3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3
-ODg3XX0=
+eyJoaXN0b3J5IjpbNzExMDc2NjAwLC0xNTQyMDQ4Nzc3LC0xND
+cxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4
+ODddfQ==
 -->
