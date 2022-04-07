@@ -28,11 +28,11 @@
 
 `rust` 值所有权：
 - 每一个值都有且只有一个所有者（变量）；
-- 当所有者（变量）离开作用域范围后，该值将被丢弃（drop）
+- 当所有者（变量）离开作用域范围后，该值将被丢弃（drop）；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDgxOTk0NjAsMTY3NDkxMTMxMCwxNz
-QyMjE0MTMxLC03NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1
-MzM4MzQsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N1
-19
+eyJoaXN0b3J5IjpbMTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3ND
+IyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUz
+MzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX
+0=
 -->
