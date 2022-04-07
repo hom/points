@@ -35,9 +35,11 @@
 - `#![allow(unused_variables)]` 允许未使用变量
 - `#![allow(unused_doc_comments)]` 允许未使用的`comment`
 
-使用 `rustc -W help` 查看 `rustc` 编辑器的 `Warn` `Allow` `Deny` `forbid` 规则;
+使用 `rustc -W help` 查看 `rustc` 编辑器的 `Warn` `Allow` `Deny` `forbid` 规则；
+
+`rust` 使用 `unimplemented!` 和 `todo!` 表示此处代码功能暂未实现；`Python` 中使用 `pass` 来表示此处功能暂未实现
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzA5MDIwNCwxMzk0NTY2MTk3LC0xOD
+eyJoaXN0b3J5IjpbLTM1MTExNDI4OSwxMzk0NTY2MTk3LC0xOD
 U2MTUyMTM4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0
 MTMxLC03NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4Mz
 QsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
