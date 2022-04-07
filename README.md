@@ -41,10 +41,10 @@
 
 `rust` 中字符串有字面量类型 `&str` 和 动态字符串类型 `String`；
 
-`rust` 中使用 `tup` 声明元组类型；`Python` `Go` 中使用 `tuple` 来声明元组类型；
+`rust` 中使用 `tup` 声明元组类型；`Python` 中使用 `tuple` 来声明元组类型；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDUxNTIzOCwtMTIyNTUzNzM1OCwtMT
+eyJoaXN0b3J5IjpbMTc2OTk3NjA5MiwtMTIyNTUzNzM1OCwtMT
 Y3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMTM4LDEyMjAx
 NTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03NTU2NjcxNT
 csLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MTg3OTIwMiwt
