@@ -20,10 +20,10 @@
 
 `rust` 中也包含有 `Nan`，使用 `is_nan` 来进行比较；
 
-`rust` 中使用 `..` 来生成序列，[1-5) 表示为 `enter code here`
+`rust` 中使用 `..` 来生成序列，[1, 5) 表示为 `(1..5)`，[1, 5] 表示为 `(1..=5)`；在 `Python` 中使用 `range` 函数来实现；
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcxMjcyOTcsLTE1NDIwNDg3NzcsLT
-E0NzE1MzM4MzQsMTc1MTg3OTIwMiwtOTI4ODY1NzM0LDI3Njk1
-Nzg4N119
+eyJoaXN0b3J5IjpbMTUzMzc5MTg1NywtMTU0MjA0ODc3NywtMT
+Q3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3MzQsMjc2OTU3
+ODg3XX0=
 -->
