@@ -24,8 +24,10 @@
 
 `rust` 中函数使用需要表明参数和返回值类型；无返回值时使用 `()` 表示，使用 `!` 表示函数永不返回；
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjIxNDEzMSwtNzU1NjY3MTU3LC0xNT
-QyMDQ4Nzc3LC0xNDcxNTMzODM0LDE3NTE4NzkyMDIsLTkyODg2
-NTczNCwyNzY5NTc4ODddfQ==
+eyJoaXN0b3J5IjpbMTM3NzMxNTY2MywxNzQyMjE0MTMxLC03NT
+U2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MTg3
+OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
 -->
