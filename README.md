@@ -35,9 +35,10 @@
 - `#![allow(unused_variables)]` 允许未使用变量
 - `#![allow(unused_doc_comments)]` 允许未使用的`comment`
 
+使用 `rustc -W help` 查看 `rustc` 编辑器的 `Warn` `Allow` `Deny` `forbid` 规则
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYxNTIxMzgsMTIyMDE1Mjg1NywxNj
-c0OTExMzEwLDE3NDIyMTQxMzEsLTc1NTY2NzE1NywtMTU0MjA0
-ODc3NywtMTQ3MTUzMzgzNCwxNzUxODc5MjAyLC05Mjg4NjU3Mz
-QsMjc2OTU3ODg3XX0=
+eyJoaXN0b3J5IjpbMTM5NDU2NjE5NywtMTg1NjE1MjEzOCwxMj
+IwMTUyODU3LDE2NzQ5MTEzMTAsMTc0MjIxNDEzMSwtNzU1NjY3
+MTU3LC0xNTQyMDQ4Nzc3LC0xNDcxNTMzODM0LDE3NTE4NzkyMD
+IsLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
 -->
