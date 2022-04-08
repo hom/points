@@ -53,15 +53,15 @@
 
 在 `rust` 中有两种数组，一种是定长的 `array` 和动态长度的 `Vector` 动态数组；他们的关系就像 `&str` 和 `String` 一样；他们都属于 `rust` 的高级类型：`集合类型`；
 
-`rust` 中的 `a
+`rust` 中的 `array` 是长度固定，大小固定的，因此属于 `基本类型`，存储在 `栈` 上；而 `Vector` 是不固定的，存储在 `堆` 上；
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMzNTgxNywtMTE3NTc3MDU2NiwtMz
-gyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUz
-NzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMT
-M4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03
-NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MT
-g3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
+eyJoaXN0b3J5IjpbLTExNTk3MTk3NzgsLTExNzU3NzA1NjYsLT
+M4MjMxOTg0OSwtMjUyMTc2NzkxLDEyODcxOTU0NDAsLTEyMjU1
+MzczNTgsLTE2NzI5MDM2MzgsMTM5NDU2NjE5NywtMTg1NjE1Mj
+EzOCwxMjIwMTUyODU3LDE2NzQ5MTEzMTAsMTc0MjIxNDEzMSwt
+NzU1NjY3MTU3LC0xNTQyMDQ4Nzc3LC0xNDcxNTMzODM0LDE3NT
+E4NzkyMDIsLTkyODg2NTczNCwyNzY5NTc4ODddfQ==
 -->
