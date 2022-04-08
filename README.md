@@ -45,10 +45,10 @@
 
 `rust` 中使用 `..` 来做序列分片或者解构；`JavaScript` 中使用 `...` 来做解构；
 
-`struct` 没有实现 `Display` 特征，需要使用 `#[derive(Debug)]` 或者 `dbg!` 宏来打印 `struct`，如果有qia
+`struct` 没有实现 `Display` 特征，需要使用 `#[derive(Debug)]` 或者 `dbg!` 宏来打印 `struct`，同样可以自定义实现 `Display` 特征
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjM3MTA0MywtMjUyMTc2NzkxLDEyOD
+eyJoaXN0b3J5IjpbLTM4MjMxOTg0OSwtMjUyMTc2NzkxLDEyOD
 cxOTU0NDAsLTEyMjU1MzczNTgsLTE2NzI5MDM2MzgsMTM5NDU2
 NjE5NywtMTg1NjE1MjEzOCwxMjIwMTUyODU3LDE2NzQ5MTEzMT
 AsMTc0MjIxNDEzMSwtNzU1NjY3MTU3LC0xNTQyMDQ4Nzc3LC0x
