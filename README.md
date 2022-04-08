@@ -51,15 +51,15 @@
 
 `Option` 确实是一个比较不错的设计，在 `JavaScript` 中比较混淆的就有 `undefined` 和 `null`，`undefined` 代表变量的值未定义，`null` 代表变量的值默认为空值；
 
-在 `rust` 中有两种数组，一种是定长的 `array` 和动态长度的 `Vector` 动态数组；他们的关系就像 `&str` 和 `String` 一样；他们都属于 `enter code here`
+在 `rust` 中有两种数组，一种是定长的 `array` 和动态长度的 `Vector` 动态数组；他们的关系就像 `&str` 和 `String` 一样；他们都属于 `rust` 的高级类型：`集合类型`；
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjEzNzYxNiwtMTE3NTc3MDU2NiwtMz
-gyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUz
-NzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMT
-M4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03
-NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MT
-g3OTIwMiwtOTI4ODY1NzM0LDI3Njk1Nzg4N119
+eyJoaXN0b3J5IjpbNDE4MDgxNzYxLC0xMTc1NzcwNTY2LC0zOD
+IzMTk4NDksLTI1MjE3Njc5MSwxMjg3MTk1NDQwLC0xMjI1NTM3
+MzU4LC0xNjcyOTAzNjM4LDEzOTQ1NjYxOTcsLTE4NTYxNTIxMz
+gsMTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3NDIyMTQxMzEsLTc1
+NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUzMzgzNCwxNzUxOD
+c5MjAyLC05Mjg4NjU3MzQsMjc2OTU3ODg3XX0=
 -->
