@@ -45,18 +45,18 @@
 
 `rust` 中使用 `..` 来做序列分片或者解构；`JavaScript` 中使用 `...` 来做解构；
 
-`struct` 没有实现 `Display` 特征，需要使用 `#[derive(Debug)]` 或者 `dbg!` 宏来打印 `struct`，同样可以自定义实现 `Display` 特征
+`struct` 没有实现 `Display` 特征，需要使用 `#[derive(Debug)]` 或者 `dbg!` 宏来打印 `struct`，同样可以自定义实现 `Display` 特征；
 
-任何类型的数据都可以放入枚举成员中
+任何类型的数据都可以放入枚举成员中；
 
-`Option` 确实是一个比较不错的设计，在 `JavaScript` 中比较混淆的就有 `undefined` 和 `null`，`undefined` 代表变量的值未定义，`null` 代表变量的值默认为空值。
+`Option` 确实是一个比较不错的设计，在 `JavaScript` 中比较混淆的就有 `undefined` 和 `null`，`undefined` 代表变量的值未定义，`null` 代表变量的值默认为空值；
 
-在 `rust` 中有两种数组，一种是定长
+在 `rust` 中有两种数组，一种是定长的 `array` 和动态长度的 `Vector` 动态数组；他们的关系就像 `&str` 和 `String` 一样；他们都属于 `enter code here`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODEwOTQ4MywtMTE3NTc3MDU2NiwtMz
+eyJoaXN0b3J5IjpbLTg4NjEzNzYxNiwtMTE3NTc3MDU2NiwtMz
 gyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUz
 NzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMT
 M4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03
