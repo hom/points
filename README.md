@@ -51,10 +51,12 @@
 
 `Option` 确实是一个比较不错的设计，在 `JavaScript` 中比较混淆的就有 `undefined` 和 `null`，`undefined` 代表变量的值未定义，`null` 代表变量的值默认为空值。
 
+在 `rust` 中有两种数组，一种是定长
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzUxNjEyNywtMTE3NTc3MDU2NiwtMz
+eyJoaXN0b3J5IjpbMTE5ODEwOTQ4MywtMTE3NTc3MDU2NiwtMz
 gyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUz
 NzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMT
 M4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03
