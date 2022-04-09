@@ -57,16 +57,16 @@
 
 `rust` 中的 `if` `else if` 判断 `条件` 不需要添加 `()`;
 
-`rust` 中的 `for` 循环，使用的是 `for in` 循环；`while` 循环需要将条件的变量声明为 `可变`；`loop` 循环需要
+`rust` 中的 `for` 循环，使用的是 `for in` 循环；`while` 循环需要将条件的变量声明为 `可变`；`loop` 循环需要搭配 `break` 使用；
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDU1MTU1LC0xNTk5ODc3NDA2LDEyMT
-A3MDI1MTYsLTExNTk3MTk3NzgsLTExNzU3NzA1NjYsLTM4MjMx
-OTg0OSwtMjUyMTc2NzkxLDEyODcxOTU0NDAsLTEyMjU1MzczNT
-gsLTE2NzI5MDM2MzgsMTM5NDU2NjE5NywtMTg1NjE1MjEzOCwx
-MjIwMTUyODU3LDE2NzQ5MTEzMTAsMTc0MjIxNDEzMSwtNzU1Nj
-Y3MTU3LC0xNTQyMDQ4Nzc3LC0xNDcxNTMzODM0LDE3NTE4Nzky
-MDIsLTkyODg2NTczNF19
+eyJoaXN0b3J5IjpbMTYxMzUwMTg4OCwtMTU5OTg3NzQwNiwxMj
+EwNzAyNTE2LC0xMTU5NzE5Nzc4LC0xMTc1NzcwNTY2LC0zODIz
+MTk4NDksLTI1MjE3Njc5MSwxMjg3MTk1NDQwLC0xMjI1NTM3Mz
+U4LC0xNjcyOTAzNjM4LDEzOTQ1NjYxOTcsLTE4NTYxNTIxMzgs
+MTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3NDIyMTQxMzEsLTc1NT
+Y2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUzMzgzNCwxNzUxODc5
+MjAyLC05Mjg4NjU3MzRdfQ==
 -->
