@@ -67,12 +67,12 @@
 
 `rust` 中方法使用和 `Python` 中相同的参数名 `self` 代表当前结构体；
 
-
+`rust` 中有一个约定成俗的规定使用 `new` 作为关联函数构造器的名称，处于设计上的考虑，`rust` 没有使用 `new` 作为关键字；
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDg4Mjg4MCwxOTMwNTc3MDUyLDIwNT
+eyJoaXN0b3J5IjpbMTQ4Mzk0Mjc3MCwxOTMwNTc3MDUyLDIwNT
 k0NjE3NTMsNTA2OTIxMTAsLTE1OTk4Nzc0MDYsMTIxMDcwMjUx
 NiwtMTE1OTcxOTc3OCwtMTE3NTc3MDU2NiwtMzgyMzE5ODQ5LC
 0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUzNzM1OCwtMTY3
