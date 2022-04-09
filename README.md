@@ -63,12 +63,14 @@
 
 `rust` 的 `Option<T>` 解构相当于使用三目运算符 `condition ? value : value` 来赋值；
 
-`可驳模式匹配` 和 `不可驳模式匹配` 代表是否是全部匹配模式;
+`可驳模式匹配` 和 `不可驳模式匹配` 代表是否是全部匹配模式；
+
+`rust` 中方法使用和 `Python` 中相同的参数名 `self` 代表当前结构体；
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTE2MzE1NCwyMDU5NDYxNzUzLDUwNj
+eyJoaXN0b3J5IjpbMTkzMDU3NzA1MiwyMDU5NDYxNzUzLDUwNj
 kyMTEwLC0xNTk5ODc3NDA2LDEyMTA3MDI1MTYsLTExNTk3MTk3
 NzgsLTExNzU3NzA1NjYsLTM4MjMxOTg0OSwtMjUyMTc2NzkxLD
 EyODcxOTU0NDAsLTEyMjU1MzczNTgsLTE2NzI5MDM2MzgsMTM5
