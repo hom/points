@@ -69,12 +69,14 @@
 
 `rust` 中有一个约定成俗的规定使用 `new` 作为关联函数构造器的名称，处于设计上的考虑，`rust` 没有使用 `new` 作为关键字；
 
-`rust` 中结构体的函数、mz'ju
+`rust` 中结构体的函数、枚举的值需要使用 `::` 来调用；
+
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgzMzc4MDAsMTkzMDU3NzA1MiwyMD
+eyJoaXN0b3J5IjpbLTEzMjMyOTE2NTYsMTkzMDU3NzA1MiwyMD
 U5NDYxNzUzLDUwNjkyMTEwLC0xNTk5ODc3NDA2LDEyMTA3MDI1
 MTYsLTExNTk3MTk3NzgsLTExNzU3NzA1NjYsLTM4MjMxOTg0OS
 wtMjUyMTc2NzkxLDEyODcxOTU0NDAsLTEyMjU1MzczNTgsLTE2
