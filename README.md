@@ -57,12 +57,12 @@
 
 `rust` 中的 `if` `else if` 判断 `条件` 不需要添加 `()`;
 
-
+`rust` 中的 `for` 循环，使用的是 `for in` 循环；
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzM5ODU2MSwtMTE1OTcxOTc3OCwtMT
+eyJoaXN0b3J5IjpbMTIxMDcwMjUxNiwtMTE1OTcxOTc3OCwtMT
 E3NTc3MDU2NiwtMzgyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5
 NTQ0MCwtMTIyNTUzNzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MT
 k3LC0xODU2MTUyMTM4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwx
