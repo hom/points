@@ -61,16 +61,16 @@
 
 `rust` 中使用 `match` 和 `if let` 进行模式匹配；`match` 和 `JavaScript` 中的 `switch case` 比较像，`match` 中的 `_` 默认值等同于 `switch case` 中的 `default`， `match` 中的 `=>` 等同于`case` 关键字后面的 `:`，另外一点是 `match` 的模式匹配中不需要添加 `break` 关键字结束匹配；模式匹配可以使用 `matchs!` 宏来进行简写；
 
-`rust` 的 `Option<T>` 解构相当于使用三目运算符 `condi? : `
+`rust` 的 `Option<T>` 解构相当于使用三目运算符 `condition ? value : value` 来赋值；
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA4NDQwMTYsNTA2OTIxMTAsLTE1OT
-k4Nzc0MDYsMTIxMDcwMjUxNiwtMTE1OTcxOTc3OCwtMTE3NTc3
-MDU2NiwtMzgyMzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MC
-wtMTIyNTUzNzM1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0x
-ODU2MTUyMTM4LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMj
-E0MTMxLC03NTU2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4
-MzQsMTc1MTg3OTIwMl19
+eyJoaXN0b3J5IjpbMTc5ODczMjQ2MSw1MDY5MjExMCwtMTU5OT
+g3NzQwNiwxMjEwNzAyNTE2LC0xMTU5NzE5Nzc4LC0xMTc1Nzcw
+NTY2LC0zODIzMTk4NDksLTI1MjE3Njc5MSwxMjg3MTk1NDQwLC
+0xMjI1NTM3MzU4LC0xNjcyOTAzNjM4LDEzOTQ1NjYxOTcsLTE4
+NTYxNTIxMzgsMTIyMDE1Mjg1NywxNjc0OTExMzEwLDE3NDIyMT
+QxMzEsLTc1NTY2NzE1NywtMTU0MjA0ODc3NywtMTQ3MTUzMzgz
+NCwxNzUxODc5MjAyXX0=
 -->
