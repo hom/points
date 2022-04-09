@@ -59,16 +59,16 @@
 
 `rust` 中的 `for` 循环，使用的是 `for in` 循环；`while` 循环需要将条件的变量声明为 `可变`；`loop` 循环需要搭配 `break` 使用；
 
-`rust` 中使用 `match` 和 `if let` 进行模式匹配；`match` 和 `JavaScript` 中的 `switch case` 比较像，`match` 中的 `_` 默认值等同于 `switch case` 中的 `default`， `match` 中的 `=>` 等同于 `JavaScript`另外一点是 `match` 的模式匹配中不需要添加 `break` 关键字结束匹配；模式匹配可以使用 `matchs!` 宏来进行简写；
+`rust` 中使用 `match` 和 `if let` 进行模式匹配；`match` 和 `JavaScript` 中的 `switch case` 比较像，`match` 中的 `_` 默认值等同于 `switch case` 中的 `default`， `match` 中的 `=>` 等同于`case` 关键字后面的 `:`，另外一点是 `match` 的模式匹配中不需要添加 `break` 关键字结束匹配；模式匹配可以使用 `matchs!` 宏来进行简写；
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQyMDgzOTksLTE1OTk4Nzc0MDYsMT
-IxMDcwMjUxNiwtMTE1OTcxOTc3OCwtMTE3NTc3MDU2NiwtMzgy
-MzE5ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUzNz
-M1OCwtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMTM4
-LDEyMjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03NT
-U2NjcxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MTg3
-OTIwMiwtOTI4ODY1NzM0XX0=
+eyJoaXN0b3J5IjpbNTA2OTIxMTAsLTE1OTk4Nzc0MDYsMTIxMD
+cwMjUxNiwtMTE1OTcxOTc3OCwtMTE3NTc3MDU2NiwtMzgyMzE5
+ODQ5LC0yNTIxNzY3OTEsMTI4NzE5NTQ0MCwtMTIyNTUzNzM1OC
+wtMTY3MjkwMzYzOCwxMzk0NTY2MTk3LC0xODU2MTUyMTM4LDEy
+MjAxNTI4NTcsMTY3NDkxMTMxMCwxNzQyMjE0MTMxLC03NTU2Nj
+cxNTcsLTE1NDIwNDg3NzcsLTE0NzE1MzM4MzQsMTc1MTg3OTIw
+MiwtOTI4ODY1NzM0XX0=
 -->
