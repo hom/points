@@ -75,14 +75,14 @@
 
 我们可以为 `结构` `枚举` `特征` 实现方法；
 
-`fj'xy`
+`泛型` 和 `特征` 是 `rust` 中最最重要的抽象类型；
 
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NjE5MDg0LDE5MjI5MzM5NjksMTkzMD
+eyJoaXN0b3J5IjpbNzQwNTMwMzAxLDE5MjI5MzM5NjksMTkzMD
 U3NzA1MiwyMDU5NDYxNzUzLDUwNjkyMTEwLC0xNTk5ODc3NDA2
 LDEyMTA3MDI1MTYsLTExNTk3MTk3NzgsLTExNzU3NzA1NjYsLT
 M4MjMxOTg0OSwtMjUyMTc2NzkxLDEyODcxOTU0NDAsLTEyMjU1
