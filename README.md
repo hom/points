@@ -85,7 +85,7 @@
 
 `特征` 定义了一个可以共享的行为，只要实现了该特征就可以使用该行为；
 
-
+定义 `特征` 就是把一些方法组合在一起，目的是定义一个实现某些目标所必须的行为的集合；
 
 
 
@@ -94,7 +94,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTU0ODU2MiwxNTg3NjY1MDA3LC0xOT
+eyJoaXN0b3J5IjpbMTI3MjMwNTEzNCwxNTg3NjY1MDA3LC0xOT
 A3OTcyODM5LC04MDE1ODQ4MTMsNzQwNTMwMzAxLDE5MjI5MzM5
 NjksMTkzMDU3NzA1MiwyMDU5NDYxNzUzLDUwNjkyMTEwLC0xNT
 k5ODc3NDA2LDEyMTA3MDI1MTYsLTExNTk3MTk3NzgsLTExNzU3
